@@ -1,0 +1,66 @@
+<grafix.graficos.elementos.ResumoAnaliseAcao>
+  <marcas>
+    <grafix.graficos.elementos.MarcaGrafica>
+      <cor>
+        <falpha>0.0</falpha>
+        <value>-16776961</value>
+      </cor>
+      <fim>
+        <firstMillisecond>1202439600000</firstMillisecond>
+        <lastMillisecond>1202525999999</lastMillisecond>
+        <serialDate class="org.jfree.date.SpreadsheetDate">
+          <day>8</day>
+          <month>2</month>
+          <serial>39486</serial>
+          <year>2008</year>
+        </serialDate>
+      </fim>
+      <inicio reference="../fim"/>
+      <nomeEixo>candles</nomeEixo>
+      <rangeMarker>false</rangeMarker>
+      <tag>teste</tag>
+      <valor>0.0</valor>
+    </grafix.graficos.elementos.MarcaGrafica>
+  </marcas>
+  <resumosElementos>
+    <grafix.graficos.elementos.ResumoElemento>
+      <classeName>Linha</classeName>
+      <cor>
+        <falpha>0.0</falpha>
+        <value>-16776961</value>
+      </cor>
+      <direcaoReta>1</direcaoReta>
+      <nomeEixo>candles</nomeEixo>
+      <posicaoReal class="java.awt.geom.Rectangle2D-Double">
+        <height>62.48585234899329</height>
+        <width>1.8351442745279297E10</width>
+        <x>-1.8200222786546536E12</x>
+        <y>85.4398389261745</y>
+      </posicaoReal>
+    </grafix.graficos.elementos.ResumoElemento>
+    <grafix.graficos.elementos.ResumoElemento>
+      <classeName>Quadro</classeName>
+      <cor reference="../../grafix.graficos.elementos.ResumoElemento/cor"/>
+      <direcaoReta>0</direcaoReta>
+      <nomeEixo>candles</nomeEixo>
+      <posicaoReal class="java.awt.geom.Rectangle2D-Double">
+        <height>30.60531543624161</height>
+        <width>2.2689056485072754E10</width>
+        <x>-1.8413766847582515E12</x>
+        <y>54.19691275167785</y>
+      </posicaoReal>
+    </grafix.graficos.elementos.ResumoElemento>
+    <grafix.graficos.elementos.ResumoElemento>
+      <classeName>Quadro</classeName>
+      <cor reference="../../grafix.graficos.elementos.ResumoElemento/cor"/>
+      <direcaoReta>0</direcaoReta>
+      <nomeEixo>candles</nomeEixo>
+      <posicaoReal class="java.awt.geom.Rectangle2D-Double">
+        <height>29.967704697986576</height>
+        <width>1.968609312675415E10</width>
+        <x>-1.8707389931506982E12</x>
+        <y>43.99514093959732</y>
+      </posicaoReal>
+    </grafix.graficos.elementos.ResumoElemento>
+  </resumosElementos>
+</grafix.graficos.elementos.ResumoAnaliseAcao>

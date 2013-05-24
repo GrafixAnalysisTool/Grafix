@@ -1,0 +1,11 @@
+<grafix.principal.ConfiguracoesGrafix>
+  <espacoPrevisao>100</espacoPrevisao>
+  <listaAcoes>basica.lst</listaAcoes>
+  <localizacaoStatusSuperior>true</localizacaoStatusSuperior>
+  <lookAndFeel>javax.swing.plaf.metal.MetalLookAndFeel</lookAndFeel>
+  <movimentoIncremento>30</movimentoIncremento>
+  <pathBaseDados>dados/</pathBaseDados>
+  <primeiroAcesso>false</primeiroAcesso>
+  <zoomIncremento>15</zoomIncremento>
+  <zoomNormal>150</zoomNormal>
+</grafix.principal.ConfiguracoesGrafix>
